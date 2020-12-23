@@ -1,0 +1,221 @@
+1-4	China	1
+1-5	China	0
+1-6	China	3
+1-7	China	0
+1-8	China	0
+1-9	China	0
+1-10	China	0
+1-11	China	41
+1-12	China	0
+1-13	Thailand	5
+1-14	Japan	5
+1-15	China	0
+1-16	China	0
+1-17	China	4
+1-18	China	17
+1-19	China	59
+1-20	China	77
+1-21	China	93
+1-22	China	152
+1-23	China	131
+1-24	China	261
+1-25	China	462
+1-26	China	688
+1-27	China	776
+1-28	China	1772
+1-29	China	1462
+1-30	China	1741
+1-31	China	1984
+2-1	China	2101
+2-2	China	2590
+2-3	China	2827
+2-4	China	3233
+2-5	China	3892
+2-6	China	3697
+2-7	China	3151
+2-8	China	3387
+2-9	China	2653
+2-10	China	2985
+2-11	China	2472
+2-12	China	2022
+2-13	China	15152
+2-14	China	4050
+2-15	China	2644
+2-16	China	2008
+2-17	China	2051
+2-18	China	1893
+2-19	China	1751
+2-20	China	396
+2-21	China	892
+2-22	China	825
+2-23	China	649
+2-24	Republic of Korea	231
+2-25	China	517
+2-26	China	411
+2-27	Republic of Korea	505
+2-28	Republic of Korea	571
+2-29	Republic of Korea	813
+3-1	Republic of Korea	586
+3-2	Iran (Islamic Republic of)	908
+3-3	Iran (Islamic Republic of)	835
+3-4	Italy	587
+3-5	Italy	769
+3-6	Iran (Islamic Republic of)	1234
+3-7	Italy	1247
+3-8	Italy	1492
+3-9	Italy	1797
+3-10	Italy	977
+3-11	Italy	2313
+3-12	Italy	2651
+3-13	Italy	2547
+3-14	Italy	3497
+3-15	Italy	3590
+3-16	Italy	3233
+3-17	Italy	3526
+3-18	Italy	4207
+3-19	Italy	5318
+3-20	Italy	5986
+3-21	Italy	6557
+3-22	Spain	4946
+3-23	United States of America	16354
+3-24	United States of America	20341
+3-25	Spain	6584
+3-26	United States of America	16420
+3-27	Spain	8578
+3-28	United States of America	16894
+3-29	United States of America	18093
+3-30	United States of America	19332
+3-31	United States of America	17987
+4-1	United States of America	22559
+4-2	United States of America	24103
+4-3	United States of America	26298
+4-4	United States of America	28103
+4-5	United States of America	32105
+4-6	United States of America	33510
+4-7	United States of America	26493
+4-8	United States of America	29510
+4-9	United States of America	31709
+4-10	United States of America	30859
+4-11	United States of America	35386
+4-12	United States of America	31606
+4-13	United States of America	31633
+4-14	United States of America	29308
+4-15	United States of America	24446
+4-16	United States of America	25802
+4-17	United States of America	28711
+4-18	United States of America	32549
+4-19	United States of America	30023
+4-20	United States of America	28252
+4-21	United States of America	27668
+4-22	United States of America	25634
+4-23	United States of America	24019
+4-24	United States of America	29127
+4-25	United States of America	30719
+4-26	United States of America	38509
+4-27	United States of America	32417
+4-28	United States of America	29218
+4-29	United States of America	22541
+4-30	United States of America	20517
+5-1	United States of America	31379
+5-2	United States of America	31774
+5-3	United States of America	26753
+5-4	United States of America	31839
+5-5	United States of America	29266
+5-6	United States of America	16200
+5-7	United States of America	22267
+5-8	United States of America	22119
+5-9	United States of America	30204
+5-10	United States of America	25870
+5-11	United States of America	26642
+5-12	United States of America	23767
+5-13	United States of America	18044
+5-14	United States of America	21424
+5-15	United States of America	20840
+5-16	United States of America	27090
+5-17	United States of America	22813
+5-18	United States of America	31967
+5-19	United States of America	13227
+5-20	United States of America	24417
+5-21	United States of America	23310
+5-22	United States of America	22787
+5-23	United States of America	20475
+5-24	United States of America	24151
+5-25	United States of America	26158
+5-26	Brazil	15813
+5-27	United States of America	24886
+5-28	United States of America	16362
+5-29	Brazil	20599
+5-30	Brazil	26417
+5-31	Brazil	26928
+6-1	Brazil	33274
+6-2	United States of America	26116
+6-3	United States of America	14692
+6-4	Brazil	28936
+6-5	Brazil	28633
+6-6	Brazil	30925
+6-7	Brazil	30830
+6-8	United States of America	28918
+6-9	Brazil	18912
+6-10	United States of America	17536
+6-11	Brazil	32091
+6-12	Brazil	32913
+6-13	Brazil	30412
+6-14	Brazil	25982
+6-15	United States of America	25314
+6-16	United States of America	21754
+6-17	Brazil	20647
+6-18	Chile	36179
+6-19	Brazil	32188
+6-20	United States of America	23046
+6-21	Brazil	54771
+6-22	Brazil	34666
+6-23	United States of America	27575
+6-24	United States of America	26519
+6-25	Brazil	39436
+6-26	Brazil	42725
+6-27	United States of America	40526
+6-28	Brazil	46860
+6-29	United States of America	44580
+6-30	United States of America	41008
+7-1	United States of America	35757
+7-2	United States of America	43556
+7-3	United States of America	54271
+7-4	United States of America	53213
+7-5	United States of America	51933
+7-6	United States of America	57186
+7-7	United States of America	43686
+7-8	United States of America	46194
+7-9	United States of America	50263
+7-10	United States of America	64630
+7-11	United States of America	58975
+7-12	United States of America	66281
+7-13	United States of America	62369
+7-14	United States of America	60113
+7-15	United States of America	58720
+7-16	United States of America	60711
+7-17	United States of America	67165
+7-18	United States of America	71484
+7-19	United States of America	74354
+7-20	United States of America	66963
+7-21	United States of America	62788
+7-22	United States of America	57276
+7-23	United States of America	62929
+7-24	United States of America	69641
+7-25	United States of America	71714
+7-26	United States of America	74235
+7-27	United States of America	63968
+7-28	United States of America	61498
+7-29	United States of America	54022
+7-30	United States of America	59629
+7-31	Brazil	69074
+8-1	United States of America	67823
+8-2	United States of America	67499
+8-3	United States of America	58388
+8-4	India	52050
+8-5	India	52509
+8-6	India	56282
+8-7	India	62538
+8-8	India	61537
+8-9	India	64399
+8-10	India	62064
+8-11	India	53601

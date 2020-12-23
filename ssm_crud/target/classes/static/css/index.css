@@ -1,0 +1,264 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.clearfix::after,
+.clearfix::before {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+body {
+    min-width: 1226px;
+    background: #1ce37c;
+}
+
+.w {
+    width: 1226px;
+    margin: 0 auto;
+}
+
+.topTitle {
+    margin-top: 20px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.topTitle .ssm-crud{
+    float: left;
+    font-size: 35px;
+    width: 300px;
+    display:inline-block;
+}
+
+.user{
+    float: right;
+    width: 200px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 20px;
+}
+
+.logout{
+    color: white;
+    font-size: 16px;
+}
+
+.logout:hover{color: white;}
+
+.logout:active{
+    color: #e3e3e3;
+}
+
+.button {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.topBtn {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.btnDiv {
+    float: right;
+    height: 30px;
+}
+
+.topAdd,
+.topDel {
+    font-size: 15px;
+    background: #333;
+    color: #fff;
+    width: 100px;
+    height: 35px;
+    margin-right: 5px;
+}
+
+.topDel:active,
+.topAdd:active {
+    background: rgb(24, 24, 24);
+}
+
+.tableEdit,
+.tableDel {
+    font-size: 12px;
+    background: #333;
+    color: #fff;
+    width: 50px;
+    height: 25px;
+}
+
+.tableDel:active,
+.tableEdit:active {
+    background: rgb(24, 24, 24);
+}
+
+.page {
+    margin-top: 40px;
+}
+
+#page_right_area {
+    float: right;
+}
+
+.pageRight {
+    position: relative;
+    background: #fff;
+    display: flex;
+    height: 40px;
+    line-height: 40px;
+    padding: 0px 20px;
+    border-radius: 40px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+}
+
+.pageRight li {
+    list-style: none;
+    line-height: 40px;
+    width: 40px;
+    margin: 0 4px;
+    text-align: center;
+}
+
+.pageRight li a {
+    display: block;
+    width: 40px;
+    height: 40px;
+    text-decoration: none;
+    color: #777;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.pageRight li:hover a,
+.pageRight li.pageActive a{
+    background: #333;
+    color: #fff;
+}
+
+.pageRight li.prev,
+.pageRight li.next {
+    font-size: 20px;
+}
+
+.pageLeft {
+    height: 40px;
+    line-height: 40px;
+    float: left;
+    font-size: 18px;
+}
+
+table {
+    width: 100%;
+    border-spacing: 0;
+}
+
+.empTable {
+    border-radius: 10px;
+    color: #fff;
+}
+
+.empTable td,
+.empTable th {
+    height: 50px;
+    border-right: solid #fff 1px;
+    /*设置表格单元格外边框，只设置右下边框*/
+    border-bottom: solid #fff 1px;
+    padding: 10px;
+    /*设置单元格内边距，单元格内容显得不拥挤*/
+    text-align: center;
+    /*单元格内容居中*/
+}
+
+.empTable td {
+    color: #333;
+}
+
+.empTable thead {
+    background-color: #333;
+    /*设置表头背景色*/
+}
+
+.empTable td:last-child,
+.empTable th:last-child {
+    border-right: none;
+    /*去掉表格每一行最后一列的右边框*/
+}
+
+.empTable tr:last-child td {
+    border-bottom: none;
+    /*去掉最后一行中所有单元格的下边框*/
+}
+
+
+/*单元格设置圆角*/
+
+.empTable th:first-child {
+    border-radius: 10px 0 0 0;
+}
+
+.empTable th:last-child {
+    border-radius: 0 10px 0 0;
+}
+
+
+/*鼠标移动至单元格，单元格高亮显示*/
+
+.empTable tbody tr:hover {
+    background: #fff;
+}
+
+.pageDisabled {
+    pointer-events: none;
+}
+
+.search-box {
+    position: absolute;
+    background: #333;
+    height: 40px;
+    border-radius: 40px;
+    padding: 5px;
+}
+
+.search-btn {
+    color: #1ce37c;
+    float: right;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.4s;
+    text-decoration: none;
+}
+
+.search-txt {
+    border: none;
+    background: none;
+    outline: none;
+    float: left;
+    padding: 0;
+    color: white;
+    font-size: 12px;
+    transition: 0.4s;
+    line-height: 30px;
+    width: 0;
+}
+
+.search-box:hover>.search-txt {
+    width: 240px;
+    padding: 0 6px;
+}
+
+.search-box:hover>.search-btn {
+    background: white;
+}

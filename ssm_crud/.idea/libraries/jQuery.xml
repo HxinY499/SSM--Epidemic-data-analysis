@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jQuery" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="jQuery" />
+      <sourceFilesUrls>
+        <item url="file://E:/Install/jquery-3.4.1/jquery-3.4.1" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://E:/Install/jquery-3.4.1/jquery-3.4.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

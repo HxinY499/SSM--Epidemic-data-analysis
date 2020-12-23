@@ -1,0 +1,165 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.top {
+    width: 1519.2px;
+    height: 40px;
+    background-color: rgb(34, 34, 34);
+    position: fixed;
+    border-bottom: 1px solid rgb(8, 8, 8);
+    z-index: 9;
+}
+
+.header {
+    width: 1519.2px;
+    height: 450px;
+    background: linear-gradient(45deg, #020031, #6d3353);
+    position: relative;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.header .header-info {
+    position: absolute;
+    position: relative;
+    height: 450px;
+    width: 800px;
+    font-size: 65px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    line-height: 450px;
+    text-align: center;
+    color: white;
+    letter-spacing: 10px;
+}
+
+.header .header-info span {
+    position: absolute;
+    width: 800px;
+    height: 30px;
+    bottom: 100px;
+    left: 0;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: white;
+}
+
+.bottom {
+    width: 1519.2px;
+    height: 450px;
+}
+
+.footer {
+    width: 1519.2px;
+    height: 200px;
+    border-top: 1px solid rgb(200, 200, 201);
+    background-color: rgb(34, 34, 34);
+    position: relative;
+}
+
+.footer div {
+    position: absolute;
+    height: 20px;
+    width: 200px;
+    text-align: center;
+    line-height: 20px;
+    font-size: 15px;
+    color: rgb(153, 153, 153);
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.center {
+    width: 1519.2px;
+    overflow: hidden;
+}
+
+.center .show1,
+.center .show2 {
+    width: 1519.2px;
+    list-style: none;
+    padding: 50px 0 20px 0;
+}
+
+.center .show1 li,
+.center .show2 li {
+    margin: 0 auto 0 auto;
+    width: 1400px;
+    height: 600px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .5);
+    background-color: white;
+    overflow: hidden;
+}
+
+.center .show1 li:nth-child(2),
+.center .show2 li:nth-child(2) {
+    margin: 50px auto;
+}
+
+.center .show1 li:nth-child(3) {
+    position: relative;
+    overflow: hidden;
+}
+
+.center .show1 li:nth-child(3) i {
+    display: block;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(24, 141, 240);
+    text-align: center;
+    line-height: 40px;
+    color: white;
+    cursor: pointer;
+}
+
+.center .show1 li:nth-child(3) #btn1 {
+    bottom: 90px;
+    right: 20px;
+}
+
+.center .show1 li:nth-child(3) #btn2 {
+    bottom: 50px;
+    right: 20px;
+}
+
+.center .show1 li:nth-child(3) i:hover {
+    background-color: rgb(128, 189, 245);
+}
+
+.center .show1 li:nth-child(3) #third {
+    width: 1340px;
+    height: 600px;
+}
+
+.center .title1,
+.center .title2 {
+    letter-spacing: 10px;
+    height: 100px;
+    width: 500px;
+    margin: 0 auto;
+    line-height: 100px;
+    text-align: center;
+    font-size: 28px;
+    border-bottom: 1px solid rgb(238, 238, 238);
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
